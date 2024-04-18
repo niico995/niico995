@@ -3,7 +3,6 @@
 </div>
 <img src="https://firebasestorage.googleapis.com/v0/b/personal-images-9427d.appspot.com/o/Portada%20de%20LinkedIn%201584x396%20px.png?alt=media&token=0a52c1cc-214d-47aa-838e-a4212f7a3e6e">
 <hr>
-<h2>FullStack Developer</h2>
 <!--
 **niico995/niico995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
