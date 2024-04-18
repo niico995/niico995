@@ -1,4 +1,6 @@
-<h1 text-aling="center" color="red">Fernando Juárez</h1>
+<div align="center">
+<h1 text-align="center" color="red">Fernando Juárez</h1>  
+</div>
 <hr>
 <h2>FullStack Developer</h2>
 <!--
