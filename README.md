@@ -1,4 +1,4 @@
-<h1 style="color: red;">Fernando Juárez</h1>
+<h1 aling="center" color="red">Fernando Juárez</h1>
 <hr>
 <h2>FullStack Developer</h2>
 <!--
