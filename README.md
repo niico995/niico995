@@ -1,6 +1,7 @@
 <div align="center">
 <h1 text-align="center" color="red">Fernando Juárez</h1>  
 </div>
+<img src="https://firebasestorage.googleapis.com/v0/b/personal-images-9427d.appspot.com/o/Portada%20de%20LinkedIn%201584x396%20px.png?alt=media&token=0a52c1cc-214d-47aa-838e-a4212f7a3e6e">
 <hr>
 <h2>FullStack Developer</h2>
 <!--
