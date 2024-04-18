@@ -1,4 +1,5 @@
 <h1 style="color: red;">Fernando Juárez</h1>
+<hr>
 <h2>FullStack Developer</h2>
 <!--
 **niico995/niico995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
